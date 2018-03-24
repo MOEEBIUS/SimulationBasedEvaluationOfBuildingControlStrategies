@@ -1,4 +1,4 @@
-# Simulation-basedE valuation of Control Strategies in Buildings
+# Simulation-based Evaluation of Control Strategies in Buildings
 
 
 ## License
