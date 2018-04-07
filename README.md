@@ -1,5 +1,13 @@
 # Simulation-based Evaluation of Control Strategies in Buildings
 
+## Description
+We use an MCDA algorithm (PROMETHE II) for evaluating a set of pre-defined control strategies on a building simulation model. The Decision Maker than can decide on which strategy to apply to the building (e.g. for the following day).
+
+
+## References
+
+ 1. Diakaki, C., Panagiotidou, N., Pouliezos, A., Kontes, G. D., Stavrakakis, G. S., et. al. (2015). A decision support system for the development of voyage and maintenance plans for ships. International Journal of Decision Support Systems, 1(1), 42-71.
+ 2. Brans, J. P., & Mareschal, B. (2005). PROMETHEE methods. In Multiple criteria decision analysis: state of the art surveys_(pp. 163-186). Springer, New York, NY.
 
 ## License
 
