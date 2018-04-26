@@ -11,7 +11,11 @@ We use an MCDA algorithm (PROMETHE II) for evaluating a set of pre-defined contr
 
 ## License
 
-This code is released by Technische Hochschule Nuernberg Georg Simon Ohm under the MIT License
+This code is released by Technische Hochschule Nuernberg Georg Simon Ohm under the MIT License.
+
+You may reference to this repository by this DOI: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1214956.svg)](https://doi.org/10.5281/zenodo.1214956)
+
+
 
 
 ## Acknowledgments
